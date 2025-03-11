@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BeamOVision
+  - Wall
+  - PlayerGun
+  - Mouse
+  - Bomb
+  - Enemy
+  - PlayerDrone
+  - GrappleSegment
+  - Floor
+  - box
+  - Doomsday
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BeamOVision
+  - Transparent
+  - Enemy
+  - PlayerGun
+  - GrapplePoint
+  - DroneOnly
+  - GrappleSegment
+  - EnemyGun
+  - BombOnly
+  - boxCollider
+  - Wall
+  - PostProcess
+  - Trigger
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SpriteStacking
+    uniqueID: 3978005299
+    locked: 0
+  - name: Projectile
+    uniqueID: 3523601467
+    locked: 0
+  - name: Foreground
+    uniqueID: 2642848353
+    locked: 0
+  - name: UI
+    uniqueID: 3188111825
+    locked: 0
